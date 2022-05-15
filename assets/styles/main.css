@@ -1,0 +1,63 @@
+.main__header {
+    margin-top: 90px;
+    margin-left: 7%;
+}
+
+.tablecard {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-bottom: 80px;
+    margin-top: 100px;
+    row-gap: 50px;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.card {
+    width: 365px;
+    padding: 25px;
+    justify-self: center;
+}
+
+.card:hover {
+    outline: 1px solid #BB2247;
+}
+
+.card__text {
+    width: 365px;
+}
+
+.bottom_card {
+    width: 365px;
+    padding: 25px;
+    justify-self: center;
+}
+
+.bottom_card:hover {
+    outline: 1px solid #BB2247;
+} 
+
+.subscribe {
+    width: 365px;
+    background: #EC615B;
+    justify-self: center;
+    padding: 20px;
+}
+
+.subscribe:hover {
+    outline: 1px solid #000000;
+}
+
+.subscribe__title_color {
+    color: #FFFFFF;
+}
+
+.subscribe__button {
+    width: 135px;
+    height: 40px;
+}
+
+.subscribe__button_txtsize {
+    font-size: 13px;
+    line-height: 13px;
+}

@@ -1,0 +1,17 @@
+.main__block {
+    width: 500px;
+    margin-left: 7%;
+    padding-top: 90px;
+    margin-bottom: 140px;
+}
+
+.main__button {
+    width: 270px;
+    height: 85px;
+    margin-top: 30px;
+}
+
+.main__button_txtsize {
+    font-size: 35px;
+    line-height: 35px;
+}

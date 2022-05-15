@@ -1,0 +1,25 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+    align-items: flex-end;
+}
+
+.logo {
+    margin-left: 4%;
+}
+
+.logo__img {
+    height: 40px;
+}
+
+.header__button {
+    margin-right: 75px;
+    width: 115px;
+    height: 40px;
+}
+
+.header__button_txtsize {
+    font-size: 13px;
+    line-height: 13px;
+}
